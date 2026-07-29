@@ -1,5 +1,8 @@
 # Amazing Stories from the Bible
 
+https://neolam1987.github.io/Bible-Stories-Retell-Web/
+
+
 A kid-friendly storybook website of famous Bible stories — written in English for young readers (ages ~8–12) growing up outside a Christian school, so they can discover the Bible, God, and salvation in a fun way.
 
 As a Christian parent with a child studying at a non-Christian school, I often worried she might miss out on our spiritual heritage — the salvation, God's character, the courage, and the wisdom found in the Bible's most famous stories. Growing up, I had these stories told and retold at home, in school, and in church; I couldn't imagine a childhood without them. So I built this website, with the help of AI, to bring the stories that once inspired me back to life for her — in the language she reads best, in a way that feels like hers.

@@ -200,3 +200,168 @@ All bust portraits on a simple warm parchment background, portrait 3:4.
 | 31–37 | `portrait-joseph.png`, `portrait-joshua.png`, `portrait-rahab.png`, `portrait-solomon.png`, `portrait-father.png`, `portrait-widow.png`, `portrait-taxcollector.png` | Home page, Meet the Heroes |
 
 All files go in: **`images\anime\`** — then just refresh the page. 🎉
+
+---
+---
+
+# 🎨 BATCH 2 — Six New Stories (July 2026)
+
+Same workflow as before: one story per chat, follow-up prompts can start with
+*"Same characters and same art style as the previous image."* All 34 new prompts
+are also appended to **`art-prompts.csv`** for batch tools.
+
+---
+
+## OT Story 4 — David and the Giant (page: david-goliath.html)
+
+### `hero-david.png` — The valley showdown (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: the Valley of Elah at morning - on one hillside the frightened army of Israel, on the other the Philistine host, and in the valley floor a small shepherd boy with a staff, a sling and a shepherd's bag walking calmly toward a gigantic armored champion whose spear is like a fence post, a shield-bearer scurrying before him. Epic scale, warm colors, courage shining.
+
+### `david-1.png` — The king's oversized armor
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: small young DAVID nearly swallowed inside King Saul's oversized royal armor - helmet down over his eyes, sword dragging on the floor - taking one comic wobbling step while the tall worried king watches and two soldiers wince; David's simple shepherd staff and sling wait on a bench. Gentle comedy before the storm.
+
+### `david-2.png` — Running TOWARD the giant
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the famous moment - DAVID mid-run toward the charging giant, sling a spinning blur above his head, face calm and determined, while GOLIATH in bronze armor thunders forward with his shield-bearer scrambling; both armies watch open-mouthed from the hillsides. Dynamic, epic, no impact shown, all motion and courage.
+
+### `david-3.png` — The hillside erupts
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: victory - young DAVID stands small on the valley floor, sling hanging loose, head bowed humbly in thanks to heaven, while behind him the entire hillside of Israel's army erupts in cheering, helmets thrown in the air, and on the far hill the Philistine banners scatter in panicked retreat into the distance. Sunset gold, joy and humility together, nothing graphic.
+
+
+---
+
+## OT Story 5 — The Fiery Furnace (page: fiery-furnace.html)
+
+### `hero-furnace.png` — Four in the fire (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: inside golden roaring flames, three young men in bright robes and turbans stand completely calm and unharmed, ropes falling away burned from their wrists - and with them walks a FOURTH figure, taller, glowing gently white like starlight; through the furnace mouth the astonished king points from his throne. Majestic, warm, wonder-filled, not scary.
+
+### `furnace-1.png` — Three trees left standing
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the plain of Dura - a vast crowd of officials in rich robes bows flat to the ground before a towering golden statue as trumpets and zithers play, and in the middle of the bowed sea THREE young men stand upright like trees in a flattened field, calm and resolute; jealous officials point at them from the side. Grand scale, tension, dignity.
+
+### `furnace-2.png` — "I see FOUR men!"
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the astonished KING NEBUCHADNEZZAR leaps up from his throne pointing at the furnace mouth, crown slipping, advisers scrambling - and framed in the glowing opening, FOUR figures stroll peacefully among golden flames, the fourth shining gently white. Dramatic wonder, warm light, not scary.
+
+### `furnace-3.png` — Not even the smell of smoke
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the three friends walk out of the furnace utterly unharmed - robes bright, hair unsinged, faces peaceful - as governors and guards crowd around examining their sleeves in disbelief and finding not even the smell of smoke; on the ground behind them, only burnt rope-ends smolder. Joyful amazement, morning light.
+
+
+---
+
+## OT Story 6 — The General and the Servant Girl (page: naaman.html)
+
+### `hero-naaman.png` — Fourteen brave words (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: a grand Syrian courtyard - a small servant girl in simple clothes speaks bravely up to an elegant lady, while beyond the archway the mighty general NAAMAN in splendid armor and red cloak stands listening, one hand touching his own arm with quiet worry; chariots and Damascus rooftops behind. Tender, hopeful, painterly.
+
+### `naaman-1.png` — The servant girl speaks up
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the grand house in Damascus - the small SERVANT GIRL stands straight and brave, mid-sentence, before her elegant mistress whose hands are flying to her mouth with sudden hope, while the great general NAAMAN pauses in the doorway in his armor, arrested by fourteen small words. Warm interior light, the smallest person the center of the scene.
+
+### `naaman-2.png` — The seventh dip
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the muddy Jordan river - the general NAAMAN, armor and medals piled on the bank, rises from his seventh dip with water streaming, staring at his own arms healed clean and new, face breaking into laughing tears; his servants on the bank cheer and hug while one counts seven on his fingers. Brown water, golden light, pure joy.
+
+### `naaman-3.png` — The general thanks the smallest voice
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: home again in Damascus - the mighty general, now gentle-faced, bows his head in public thanks to the small SERVANT GIRL, pressing his hand to his heart, while the lady of the house wipes tears and the household staff beam; through the window, the city he will now tell about the God of Israel. Heartwarming, dignified, golden interior.
+
+
+---
+
+## NT Parable 4 — The Good Samaritan (page: good-samaritan.html)
+
+*(All NT images: no depiction of Jesus — parable characters only.)*
+
+### `hero-samaritan.png` — Compassion on the Jericho road (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: the steep rocky Jericho road winding down through desert canyons at golden hour - a kind traveler in striped robes kneels beside a hurt man, bandaging his wounds with torn cloth, his donkey waiting patiently with panniers of oil and wine; high on the road behind, two small robed figures hurry away. Compassion glowing at the center of a harsh landscape. No depiction of Jesus.
+
+### `samaritan-1.png` — Passed by on the other side
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the lonely rocky Jericho road - a hurt traveler lies slumped by the roadside among scattered belongings, reaching weakly, while up the road a robed priest passes by on the FAR side, face turned away, robes gathered close; heat shimmer, circling birds high above. Sorrowful but gentle, no wounds shown in detail. No depiction of Jesus.
+
+### `samaritan-2.png` — The wrong-country rescuer kneels
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the SAMARITAN kneels in the road dust beside the hurt traveler, tearing his own cloak into bandages, pouring oil and wine from his trade jars, his patient donkey standing close with kind eyes; the man's face turning toward his rescuer in weak wonder. Golden hour compassion, tender and safe. No depiction of Jesus.
+
+### `samaritan-3.png` — Two coins and an open bill
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: morning at the little roadside inn - the SAMARITAN presses two silver coins into the round innkeeper's palm, gesturing back toward the upstairs room, the innkeeper's eyebrows high with amazement, a big open guest register on the counter between them with a quill; the bandaged traveler asleep safely by the window above. Warm, funny, deeply kind. No depiction of Jesus.
+
+
+---
+
+## NT Parable 5 — The Parable of the Talents (page: talents.html)
+
+### `hero-talents.png` — The entrusting (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: a wealthy master in fine robes at his doorway, travel bags packed, entrusting money bags to three servants lined up before him - five bags to the first, two to the second, one to the third - each servant's face telling a different story: eager, steady, worried. Morning light of a great journey beginning. No depiction of Jesus.
+
+### `talents-1.png` — Five bags, two bags, one bag
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the entrusting - the rich master places heavy money bags into three pairs of hands down a line: five bags to a bright-eyed eager servant, two to a steady smiling one, one to a nervous servant who holds it like a hot coal; travel wagons wait behind. Morning light, character faces telling everything. No depiction of Jesus.
+
+### `talents-2.png` — Two at work, one with a shovel
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: split scene of industry - on one side the five-bag servant trades busily at a market stall and the two-bag servant loads a little fishing boat, coins multiplying in happy stacks; on the other side, in a moonlit garden, the third servant furtively pats down earth over a freshly buried bag, shovel in hand, looking over his shoulder. Funny and telling contrast. No depiction of Jesus.
+
+### `talents-3.png` — Prize day — and the muddy bag
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the accounting - the returned master beams as two servants present overflowing doubled bags of gold, his hands on their shoulders in warm approval - while the third servant approaches last holding out one single muddy bag, eyes down, a worm dangling from its drawstring. Warm praise and gentle sorrow in one frame. No depiction of Jesus.
+
+
+---
+
+## NT Parable 6 — The Unforgiving Servant (page: unforgiving-servant.html)
+
+### `hero-debt.png` — The great cancellation (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Story hero art: a magnificent throne room - the king rises from his throne tearing an enormous scroll of debt entries in two, golden light streaming, while the kneeling servant stares up with tears of relief; an old accountant at a side desk drops his quill in astonishment, a giant open ledger before him. Grace like sunrise. No depiction of Jesus.
+
+### `debt-1.png` — Ten thousand talents — CANCELED
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the throne room - the KING tears an enormous scroll listing ten thousand talents in half, kindness in his face, while the servant kneels below with tears of disbelief and relief, hands raised; the old ACCOUNTANT at his side desk weeps onto his giant ledger, quill dripping one ink blot. Golden light of grace. No depiction of Jesus.
+
+### `debt-2.png` — The courtyard grab
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the palace courtyard minutes later - the same freshly-forgiven servant, fine coat swirling, angrily grips the collar of a smaller fellow servant who kneels pleading with clasped hands, a tiny coin pouch fallen between them; around the courtyard, other servants freeze mid-step in dismay, and one elderly servant turns sadly toward the palace. Emotional but not violent. No depiction of Jesus.
+
+### `debt-3.png` — Two ledgers, side by side
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 4:3. Scene: the accountant's candlelit study at night - the old ACCOUNTANT sits at his desk with TWO ledgers open side by side: a giant one with an enormous page struck through with a great glowing CANCELED flourish, and a tiny one with a single small entry, his quill hovering over it thoughtfully. Quiet, warm, symbolic - the whole parable in two books. No depiction of Jesus.
+
+
+---
+
+## Batch 2 home-page art (cards & portraits)
+
+### `card-david.png` — Home-page card, Story 4
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: a small shepherd boy with a sling stands at one edge of a great valley, calm and unafraid, facing a TOWERING armored giant on the other side whose shadow stretches across the whole scene; between them, a little brook glints with five smooth stones. Epic contrast, warm morning light, courage over size.
+
+### `card-furnace.png` — Home-page card, Story 5
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: seen through the glowing round mouth of a great furnace, three young men in robes and turbans stand calm and unburned among golden flames - and beside them a fourth figure shines like white light; outside, tiny silhouettes of an astonished king and court. Awe-inspiring, beautiful, not scary.
+
+### `card-naaman.png` — Home-page card, Story 6
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: a mighty armored Syrian general with a proud cloak kneels chest-deep in a muddy river, arms raised in joyful disbelief at his own healed skin, while on the bank his servants cheer and a small girl's silhouette watches from far away with clasped hands. Golden light on brown water, joy and humility together.
+
+### `card-samaritan.png` — Home-page card, Parable 4
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: on a steep rocky desert road at sunset, a kind traveler in simple striped robes gently lifts a bandaged hurt man onto his own patient donkey, his oil and wine jars open beside him; far up the road, two robed figures walk away without looking back. Deeply warm and moving. No depiction of Jesus.
+
+### `card-talents.png` — Home-page card, Parable 5
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: three servants side by side, each holding money bags - one proudly holding five glowing bags, one happily holding two, and one nervously hiding a single bag behind his back beside a small shovel and a freshly dug hole. Bright, funny, telling. No depiction of Jesus.
+
+### `card-debt.png` — Home-page card, Parable 6
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9. Card art: a majestic king on his throne tearing an ENORMOUS scroll of debt in half with a kind smile, golden pieces fluttering like confetti, while a kneeling servant looks up in tearful disbelief; tucked in the corner, a tiny second scene in shadow shows the same servant later grabbing another man's collar. Grace and warning in one poster. No depiction of Jesus.
+
+### `portrait-david.png` — David — Meet the Heroes
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. DAVID: a bright-eyed shepherd boy with ruddy cheeks and windswept brown hair, simple wool tunic, a sling over one shoulder and a shepherd's staff, a small harp peeking from his bag, faint stars and one giant-sized distant silhouette behind him. Brave, warm, humble - the boy who measured giants against God.
+
+### `portrait-friends.png` — Shadrach, Meshach & Abednego — Meet the Heroes
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. SHADRACH MESHACH AND ABEDNEGO: three young men of Judah shoulder to shoulder in bright robes and turbans, faces calm and resolute, arms crossed or hands clasped, a soft glow of golden flame behind them that cannot touch them - and a faint fourth glow of white light between their shoulders. Courage in threes.
+
+### `portrait-servantgirl.png` — The Servant Girl — Meet the Heroes
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. THE SERVANT GIRL: a young girl in simple servant's clothes with a headscarf, kind steady eyes full of quiet courage and homesickness turned to hope, hands clasped as she speaks up bravely, a faint far-off river and a prophet's little house behind her. Small voice, giant faith - the unnamed hero.
+
+### `portrait-samaritan.png` — The Good Samaritan — Meet the Heroes
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. THE GOOD SAMARITAN: a kind weathered traveler in striped robes and a road-dusty headcloth, warm brown eyes full of compassion, a bandage roll in one hand and a small oil flask in the other, his donkey's gentle nose resting on his shoulder. The unexpected neighbor who crossed the road.
+
+
+---
+
+## Batch 2 checklist — all 34 files
+
+| File(s) | Where it appears |
+|---------|------------------|
+| `hero-david.png`, `david-1.png` … `david-3.png` | david-goliath.html |
+| `hero-furnace.png`, `furnace-1.png` … `furnace-3.png` | fiery-furnace.html |
+| `hero-naaman.png`, `naaman-1.png` … `naaman-3.png` | naaman.html |
+| `hero-samaritan.png`, `samaritan-1.png` … `samaritan-3.png` | good-samaritan.html |
+| `hero-talents.png`, `talents-1.png` … `talents-3.png` | talents.html |
+| `hero-debt.png`, `debt-1.png` … `debt-3.png` | unforgiving-servant.html |
+| `card-david.png` … `card-debt.png` (6 cards) | Home page story cards |
+| `portrait-david.png`, `portrait-friends.png`, `portrait-servantgirl.png`, `portrait-samaritan.png` | Home page, Meet the Heroes |
+
+All files go in: **`images\anime\`** — then just refresh the page. 🎉
